@@ -1,6 +1,6 @@
 {
 	"name": "node-clipboardy",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"description": "Access the system clipboard (copy/paste). For node only:)",
 	"license": "MIT",
 	"repository": "atageldi194229/node-clipboardy",

@@ -15,7 +15,7 @@ npm install node-clipboardy
 ## Usage
 
 ```js
-var ncp = 'node-clipboardy';
+var ncp = require('node-clipboardy');
 
 ncp.writeSync('🦄');
 
