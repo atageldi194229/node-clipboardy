@@ -9,17 +9,17 @@ Cross-platform. Supports: macOS, Windows, Linux, OpenBSD, FreeBSD, Android with 
 ## Install
 
 ```sh
-npm install clipboardy
+npm install node-clipboardy
 ```
 
 ## Usage
 
 ```js
-import clipboard from 'clipboardy';
+var ncp = 'node-clipboardy';
 
-clipboard.writeSync('🦄');
+ncp.writeSync('🦄');
 
-clipboard.readSync();
+ncp.readSync();
 //=> '🦄'
 ```
 
