@@ -1,4 +1,4 @@
-var process = require('node:process');
+var process = require('process');
 var isWSL = require('is-wsl');
 var termux = require('./lib/termux.js');
 var linux = require('./lib/linux.js');
